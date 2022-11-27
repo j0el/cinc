@@ -1,0 +1,22 @@
+{
+  "name": "cinc",
+  "version": "1.0.0",
+  "description": "Extract CEDEN to local MONGODB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j0el/cinc.git"
+  },
+  "author": "Joel Berman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j0el/cinc/issues"
+  },
+  "homepage": "https://github.com/j0el/cinc#readme",
+  "dependencies": {
+    "ckan": "^0.2.2"
+  }
+}
